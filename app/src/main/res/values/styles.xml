@@ -1,0 +1,79 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+
+
+    <!-- Splash Theme -->
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+
+
+
+
+    <!-- Font style for App Name-->
+
+    <style name="Style.Wazzup.AppName" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/colorSecondaryText</item>
+        <item name="android:textStyle">bold|italic</item>
+
+    </style>
+
+
+    <!-- Font style for Screen Title-->
+
+    <style name="Style.Wazzup.ScreenTitle" parent="TextAppearance.AppCompat.Headline">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/colorSecondaryText</item>
+
+
+    </style>
+
+
+
+    <!-- Screen Background on ALL SCREENS across the App -->
+
+    <style name="Style.Wazzup.ScreenBackground"  parent="Theme.AppCompat" >
+        <item name="android:background">@color/colorPrimaryLight</item>
+        <item name="android:textColor">@color/colorPrimaryText</item>
+
+    </style>
+
+
+
+
+    <!-- Style on ALL BUTTONS across the APPLICATION -->
+
+    <style name="Style.Wazzup.Button"  parent="Theme.AppCompat" >
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:radius">3dp</item>
+        <item name="android:shape">rectangle</item>
+        <item name="android:textColor">@color/colorPrimaryText</item>
+
+
+
+    </style>
+
+
+
+
+
+
+
+
+
+</resources>

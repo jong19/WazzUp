@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "593682090447",
+    "firebase_url": "https://wazzup-621cc.firebaseio.com",
+    "project_id": "wazzup-621cc",
+    "storage_bucket": "wazzup-621cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593682090447:android:9c437c777f07687c",
+        "android_client_info": {
+          "package_name": "com.example.delfino.wazzup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593682090447-lfgfn43eo6v264sjcu08ceiboimisl5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delfino.wazzup",
+            "certificate_hash": "e19f75fb1592edd9afd57dde71f87b2d58473f69"
+          }
+        },
+        {
+          "client_id": "593682090447-u5he27cque7bjf77nn0p80i4qfsva151.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_gXX57z9AhAkqOxlYFr3J81Z0W_p-oZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593682090447-u5he27cque7bjf77nn0p80i4qfsva151.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

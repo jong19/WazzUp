@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="app_name">WazzUp</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_iv_contentDescription">WazzUp</string>
+    <string name="splash_tv_appName">WazzUp</string>
+
+
+    <!-- Login Screen -->
+
+    <string name="login_iv_contentDescription_">WazzUp</string>
+    <string name="login_tv_appName">WazzUp</string>
+
+    <string name="login_et_usernameEmail">Username / Email</string>
+    <string name="login_et_password">Password</string>
+
+    <string name="login_cb_keepMeLogin">Keep Me Login</string>
+    <string name="login_btn_Login">Login</string>
+
+    <string name="login_tv_createAccount">Create An Account</string>
+    <string name="login_tv_forgotPassword">Forgot Password?</string>
+
+
+    <!-- Account Info Screen -->
+
+    <string name="ai_tv_screenTitle">Account Info</string>
+
+    <string name="ai_et_username">Username</string>
+    <string name="ai_et_email">Email</string>
+    <string name="ai_et_password">Password</string>
+
+    <string name="ai_btnArrowNext_description">Next</string>
+
+
+    <!-- User Info Screen -->
+
+    <string name="ui_tv_screenTitle">User Info</string>
+    <string name="ui_saveBtn_description">Save</string>
+
+    <string name="ui_et_firstname">Firstname</string>
+    <string name="ui_et_lastname">Lastname</string>
+
+    <string name="ui_rb_male">Male</string>
+    <string name="ui_rb_female">Female</string>
+
+    <string name="ui_et_birthdate">Enter Birthdate</string>
+
+
+    <string-array name="ui_spnr_country">
+
+        <item >Australia </item>
+        <item >Canada </item>
+        <item >Philippines </item>
+        <item >United Kingdom </item>
+        <item >United States </item>
+
+
+    </string-array>
+
+
+</resources>
